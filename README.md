@@ -89,7 +89,7 @@ ML classifier detecting phishing URLs at 97% accuracy using only URL-based featu
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manu-ngowda&show_icons=true&theme=default&hide_title=false&count_private=true" alt="GitHub Stats" height="165"/>
@@ -98,7 +98,7 @@ ML classifier detecting phishing URLs at 97% accuracy using only URL-based featu
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manu-ngowda&theme=default" alt="GitHub Streak"/>
-</p>
+</p> -->
 
 ---
 
